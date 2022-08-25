@@ -10,6 +10,14 @@
   color: #aaa;
 }
 
+#left-arrow.hidden {
+  visibility: hidden;
+}
+
+#right-arrow.hidden {
+  visibility: hidden;
+}
+
 .Carousel-main > i:hover {
   color: black;
 }
